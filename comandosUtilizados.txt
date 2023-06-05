@@ -1,0 +1,42 @@
+ 501  git init
+  502  git branch -M main
+  503  git remote add origin https://github.com/Dani1397/20230605-DanielaRivera.git
+  504  touch comandos.txt main.jse index.html
+  505  git add .
+  506  git commit -m"commit 01 de DanielaRivera"
+  507  git push origin main
+  508  git checkout -b feature01
+  509  touch Terminal Hardware
+  510  git rv Terminal Hardware
+  511  git rm Terminal Hardware
+  512  git rm Terminal
+  513  git rm -r Terminal
+  514  rm Terminal Hardware
+  515  mkdir Terminal Hardware
+  516  touch Terminal/resumen.txt. Hardware/resumen.txt.
+  517  git add .
+  518  git add Hardware/
+  519  git status
+  520  git add Hardware/
+  521  cd Hardware/
+  522  git add .
+  523  cd
+  524  cd Desktop/20230605-DanielaRivera/
+  525  git add .
+  526  add .
+  527  git status
+  528  rm Terminal/resumen.txt. Hardware/resumen.txt.
+  529  touch Terminal/resumen.txt Hardware/resumen.txt
+  530  git add .
+  531  git commit -m"commit 02 de DanielaRivera"
+  532  git push origin feature01
+  533  git checkout -b feature02
+  534  nano Terminal/resumen.txt
+  535  nano Hardware/resumen.txt
+  536  git add .
+  537  git commit -m"commit 03 de DanielaRivera"
+  538  git push origin feature02
+  539  git checkout main
+  540  git mv comandos.txt comandosUtilizados.txt
+  541  git history
+  542  history 
